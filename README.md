@@ -1,7 +1,10 @@
 # Power-Outages
-Project Members
+## Project Members
+
 Student: Andrew Li (ahli@ucsd.edu{.email})
+
 Student: Devon Romero (dromero@ucsd.edu{.email})
+
 # Project Description:
 In today's technology dependent world, a power outage can lead to so much more than a lack of electricity — it leads to a lack of normal life. In this project we were interested in the features that would contribute to larger outages. We then built a machine learning model to try and predict whether a power outage is a major one.
 
